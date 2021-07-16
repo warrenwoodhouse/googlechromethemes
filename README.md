@@ -1,2 +1,32 @@
 # googlechromethemes
-Google Chrome Themes by Warren Woodhouse. #googlechromethemes #googlechrome #crx #warrenwoodhouse
+Google Chrome Theme Package by Warren Woodhouse. For personal use only. More cool stuff at https://www.warrenwoodhouse.fandom.com/
+
+# LICENSE AGREEMENT
+You can find the license agreement at https://warrenwoodhouse.fandom.com/license
+
+# WHAT IS IN THE PACKAGE
+Google Chrome Themes by Warren Woodhouse.
+
+# REQUIREMENTS
+* Browser: Google Chrome
+* Operating System: Windows 7, Windows 8, Windows 9, Windows 10
+* ZIP Folder extractor tool (Windows has one by default)
+
+# INSTALLATION INSTRUCTIONS
+1. Download any of the Google Chrome Theme ZIP Folders
+2. In a ZIP Folder, you'll find a File Folder that has a code as the folder name, like this: llfgnpdaedilflhelbccicdgkfmchpgp
+3. Copy the File Folder to: My Computer > WINDOWS (C:) > Users > {YOURUSERNAME} > AppData > Local > Google > Chrome > User Data > Default > Extensions > PASTE HERE
+4. Once done, close Google Chrome and then restart Google Chrome for the custom Chrome Theme to take effect
+
+# WHERE DO I FIND MORE WARREN WOODHOUSE CHROME THEMES
+For more cool Chrome Themes, visit https://warrenwoodhouse.fandom.com/wiki/Themes/GoogleChromeThemes
+
+# SUPPORT
+* Support: https://warrenwoodhouse.fandom.com/support
+* Feedback: https://warrenwoodhouse.fandom.com/feedback
+
+# KEEP IN TOUCH
+* Subscribe on YouTube: https://youtube.com/user/warrenwoodhouse
+* Follow on Twitter: https://twitter.com/warrenwoodhouse
+* Follow on Warren Woodhouse Blogs: https://warrenwoodhouse.fandom.com/blog
+* More: https://warrenwoodhouse.fandom.com/wiki/Template:Header?useskin=oasis
